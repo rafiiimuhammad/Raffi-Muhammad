@@ -1,7 +1,7 @@
 # Rafii-Muhammad
 Collaborative Filtering
 
-Nama : Rafii Muhammad
+Nama : Rafi Muhammad
 
 Nim : 171011402479
 
