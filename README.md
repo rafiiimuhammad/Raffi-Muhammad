@@ -1,10 +1,10 @@
 # Raffi-Muhammad
 Collaborative Filtering
 
-Nama : Raffi Muhammad
+Nama : Rafi Muhammad
 
-Nim :
+Nim : 171011402479
 
-Kelas :
+Kelas : 07TPLM004
 
-Matkul :
+Matkul : Sistem penunjang keputusan 
